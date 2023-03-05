@@ -23,9 +23,10 @@ Please make sure that the pull request is limited to one type (docs, feature, et
 
 - [ ] I have created and linked a corresponding task in linear.app
 - [ ] My pull request adheres to the code style of this project
+- [ ] My pull request adheres to our naming conventions
 - [ ] My code requires changes to the documentation
-- [ ] I have updated the documentation as required
-- [ ] I have added the appropriate tests
+- [ ] I have updated the documentation as required (docstrings, architecture diagrams, coda docs, etc.)
+- [ ] I have added/updated the appropriate tests
 - [ ] All the tests have passed
 
 ## ℹ Additional Information
