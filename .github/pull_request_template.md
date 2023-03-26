@@ -1,21 +1,10 @@
 <!--
-Thanks for creating this pull request 🤗
-
 Please make sure that the pull request is limited to one type (docs, feature, etc.) and keep it as small as possible. You can open multiple prs instead of opening a huge one.
 -->
 
-<!-- If this pull request closes an issue, please mention the issue number below -->
-
-<!-- Closes # --> <!-- Issue # here -->
-
 ## 📑 Description
 
-<!-- Add a brief description of the pr -->
-
-<!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
-- [ ] Not Completed
-- [x] Completed
--->
+<!-- Add a brief description and list of changes of the pr -->
 
 ## ✅ Checks
 
@@ -24,10 +13,12 @@ Please make sure that the pull request is limited to one type (docs, feature, et
 - [ ] I have created and linked a corresponding task in linear.app
 - [ ] My pull request adheres to the code style of this project
 - [ ] My pull request adheres to our naming conventions
-- [ ] My code requires changes to the documentation
+- [ ] I've added the appropriate PR tags (eg. major, minor, patch, bug, etc.)
 - [ ] I have updated the documentation as required (docstrings, architecture diagrams, coda docs, etc.)
 - [ ] I have added/updated the appropriate tests
 - [ ] All the tests have passed
+- [ ] I've added/updated stories for UI changes
+- [ ] I've updated the CHANGELOG.md file with a summary of my changes
 
 ## ℹ Additional Information
 
