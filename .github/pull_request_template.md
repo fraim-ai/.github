@@ -18,7 +18,6 @@ Please make sure that the pull request is limited to one type (docs, feature, et
 - [ ] I have added/updated the appropriate tests
 - [ ] All the tests have passed
 - [ ] I've added/updated stories for UI changes
-- [ ] I've updated the CHANGELOG.md file with a summary of my changes
 
 ## ℹ Additional Information
 
